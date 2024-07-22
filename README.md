@@ -3,7 +3,7 @@
 ## Grade 11 Project: Retail App
 
 ### Description
-This project is designed for retail bussinesses to keep track of their stock.
+This project is designed for retail businesses to keep track of their stock.
 
 ### How to Run
 1. **Download the Project Files:**
